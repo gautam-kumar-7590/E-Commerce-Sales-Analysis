@@ -13,6 +13,7 @@ E Commerce Sales Analysis.xlsx
 
 ![image alt](https://github.com/gautam-kumar-7590/E-Commerce-Sales-Analysis/blob/b5b060670d39dfb324779d0e170ace644af429be/Screenshot%20(39).png)
 
+![image alt](https://github.com/gautam-kumar-7590/E-Commerce-Sales-Analysis/blob/c61839202d5d9eccf3ab7b15c44a237b523a9dbc/Screenshot%20(40).png)
 POWER BI 
 Project File.pbix
 
