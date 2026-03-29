@@ -18,6 +18,8 @@ Project File.pbix
 1.	Interactive visuals dashboard with charts and slicers
 2.	Bar charts, Donut charts, Area chart, and KPI cards 
 
+![image alt](![Dashboard](Screenshot__7_.png))
+
 Dataset summary 
 The raw data set consists of 3500 rows of transactions e commerce and data with the following fields:
 Order date, Product Name, Category, Region, Quantity, Sales, Profit 
