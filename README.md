@@ -11,6 +11,7 @@ E Commerce Sales Analysis.xlsx
 1.	Data cleaning, Pivot Tables, Formulas, and KPI Calculations 
 2.	There is a Raw Data sheet with a Data analysis sheet  
 
+![image alt](https://github.com/gautam-kumar-7590/E-Commerce-Sales-Analysis/blob/b5b060670d39dfb324779d0e170ace644af429be/Screenshot%20(39).png)
 
 POWER BI 
 Project File.pbix
